@@ -6,3 +6,4 @@ langchain_community
 langchain_experimental
 cohere
 tabulate
+io
