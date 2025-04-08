@@ -32,14 +32,13 @@ Data analysis in Excel can be overwhelming — especially for non-technical user
 
 ## 🔧 Code Structure & Workflow
 
-📁 your-app/
+your-app/
 │
-├── 📄 main.py              # Main Streamlit app logic
-├── 📄 requirements.txt     # Dependencies for the app
-├── 📄 README.md            # Project documentation
-└── 📁 .streamlit/
-└── secrets.toml        # Securely stores API keys
-
+├── main.py              # Main Streamlit app logic
+├── requirements.txt     # Dependencies for the app
+├── README.md            # Project documentation
+└── .streamlit/
+    └── secrets.toml     # Securely stores API keys
 ---
 
 ## 🧠 Workflow Overview
