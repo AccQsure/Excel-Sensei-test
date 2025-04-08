@@ -31,7 +31,7 @@ Data analysis in Excel can be overwhelming — especially for non-technical user
 ---
 
 ## 🔧 Code Structure & Workflow
-'''
+```
 your-app/
 │
 ├── main.py              # Main Streamlit app logic
@@ -39,7 +39,7 @@ your-app/
 ├── README.md            # Project documentation
 └── .streamlit/
     └── secrets.toml     # Securely stores API keys
-'''
+```
 
 ## 🧠 Workflow Overview
 
