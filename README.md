@@ -10,7 +10,7 @@ I've built a GenAI LLM app leveraging AI Agents that lets you simply upload your
 
 ---
 
-## 💡 Why it Helps
+### 💡 Why it Helps
 
 Data analysis in Excel can be overwhelming — especially for non-technical users. With Excel Sensei, anyone can:
 
@@ -21,7 +21,7 @@ Data analysis in Excel can be overwhelming — especially for non-technical user
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **LangChain + Cohere LLM** – powers the pandas DataFrame AI Agent  
 - **Streamlit** – for the interactive UI  
@@ -30,7 +30,7 @@ Data analysis in Excel can be overwhelming — especially for non-technical user
 
 ---
 
-## 🔧 Code Structure & Workflow
+### 🔧 Code Structure & Workflow
 ```
 Excel-Sensei/
 │
@@ -41,22 +41,22 @@ Excel-Sensei/
     └── secrets.toml     # Securely stores API keys
 ```
 
-## 🧠 Workflow Overview
+### 🧠 Workflow Overview
 
-### 1. Setup & Initialization
+#### 1. Setup & Initialization
 - Loads API keys and sets Streamlit page configuration  
 - Initializes session state for chat and data tracking  
 
-### 2. Excel Upload & Cleaning
+#### 2. Excel Upload & Cleaning
 - Reads Excel file using `pandas.read_excel()`  
 - Validates and cleans data (missing values, duplicates, etc.)  
 - Stores cleaned dataset for chat-based exploration  
 
-### 3. AI Agent Creation
+#### 3. AI Agent Creation
 - Uses `create_pandas_dataframe_agent()` with **Cohere’s `command-r-plus`**  
 - Powers natural language queries on uploaded Excel data  
 
-### 4. Interactive UI & Chat
+#### 4. Interactive UI & Chat
 - Chat interface to ask questions about the data  
 - Agent responses appear in a conversational thread  
 - Cleaned data preview and Excel download also available  
