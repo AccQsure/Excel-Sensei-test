@@ -4,8 +4,9 @@ Say hello to Excel Sensei, your new AI-powered companion that turns complex data
 
 I've built a GenAI LLM app leveraging AI Agents that lets you simply upload your Excel file and ask questions in plain English. Excel Sensei uses advanced AI to analyze your data and provide instant insights.
 
-App URL : https://lnkd.in/gWHBcAiV
-App Video Demo : https://lnkd.in/gCGfKjRq
+App URL : https://excel-sensei.streamlit.app
+
+App Video Demo : https://youtu.be/cxOOpmPXXyE?si=XKOtgLGr98XDAgAq
 
 💡 Why it helps:
 Data analysis in Excel can be overwhelming — especially for non-technical users. With Excel Sensei, anyone can:
