@@ -32,7 +32,7 @@ Data analysis in Excel can be overwhelming — especially for non-technical user
 
 ## 🔧 Code Structure & Workflow
 ```
-your-app/
+Excel-Sensei/
 │
 ├── main.py              # Main Streamlit app logic
 ├── requirements.txt     # Dependencies for the app
