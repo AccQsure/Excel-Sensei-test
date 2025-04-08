@@ -1,5 +1,5 @@
 
-# 📊 Excel Sensei – Your LLM Agent for Spreadsheet Insights!!
+## 📊 Excel Sensei – Your LLM Agent for Spreadsheet Insights!!
 
 Say hello to **Excel Sensei**... your new AI-powered companion that turns complex data into clear, actionable answers!
 
