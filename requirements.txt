@@ -4,6 +4,7 @@ openpyxl
 langchain
 langchain_community
 langchain_experimental
-cohere
 tabulate
 xlsxwriter
+langchain-huggingface
+huggingface-hub
